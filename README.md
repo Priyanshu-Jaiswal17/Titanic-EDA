@@ -13,7 +13,7 @@ Source: Kaggle Titanic Dataset
 - Survival analysis by **gender, class, family size, and embarkation port**  
 - Grouped statistics and percentage survival rates  
 
-## 🛠️ Tools & Libraies  
+## 🛠️ Tools & Libraries.  
 - Python 🐍  
 - Pandas
 
